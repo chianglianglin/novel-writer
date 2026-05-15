@@ -71,7 +71,7 @@ The `wiki/`, `drafts/`, `output/`, and `chroma_db/` directories contain a worked
 ## Requirements
 
 - [Claude Code](https://claude.com/claude-code) (any model).
-- That's it. No API keys. No Python. No Node. The `no-api` in the name is the whole point.
+- That's it. No API keys. No Python. No Node. No external runtime — the skills are the whole project.
 
 ## License
 
